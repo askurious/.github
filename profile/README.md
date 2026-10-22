@@ -8,7 +8,7 @@
 <p align="center"><em>/ɑːˈskjʊə.ri.əs/, from <strong>ask</strong> and <strong>curious</strong></em></p>
 
 **Askurious** is a web platform for social science research: plan a study, build the questionnaire, take it to the field, check the data quality and analyse the results, all in one place.
-It is developed by the Chair of Communication Science, RWTH Aachen University, for research and teaching.
+It is developed by the [Chair of Communication Science, RWTH Aachen University](https://www.comm.rwth-aachen.de), for research and teaching.
 
 ## Repositories
 
@@ -33,3 +33,8 @@ It is developed by the Chair of Communication Science, RWTH Aachen University, f
 ## Contact
 
 Questions and ideas are welcome as issues in the repository of the part concerned.
+
+Lehrstuhl für Kommunikationswissenschaft, RWTH Aachen University  
+Campus-Boulevard 57  
+52074 Aachen, Germany  
+[brauner@comm.rwth-aachen.de](mailto:brauner@comm.rwth-aachen.de) · [www.comm.rwth-aachen.de](https://www.comm.rwth-aachen.de)
