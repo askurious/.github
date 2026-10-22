@@ -1,14 +1,14 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/askurious/askurious/main/docs/logo-dark.png">
-    <img src="https://raw.githubusercontent.com/askurious/askurious/main/docs/logo.png" alt="Askurious" width="280">
+    <source media="(prefers-color-scheme: dark)" srcset="logo-dark.png">
+    <img src="logo.png" alt="Askurious" width="280">
   </picture>
 </p>
 
 <p align="center"><em>/ɑːˈskjʊə.ri.əs/, from <strong>ask</strong> and <strong>curious</strong></em></p>
 
 **Askurious** is a web platform for social science research: plan a study, build the questionnaire, take it to the field, check the data quality and analyse the results, all in one place.
-It is run by Dr. Philipp Brauner, RWTH Aachen University, for research and teaching.
+It is developed by the Chair of Communication Science, RWTH Aachen University, for research and teaching.
 
 ## Repositories
 
