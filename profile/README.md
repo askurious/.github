@@ -21,7 +21,6 @@ It is developed by the Chair of Communication Science, RWTH Aachen University, f
 
 - Platform: [askurious.de](https://askurious.de)
 - All question types in action: [ask.askurious.de/s/introduction](https://ask.askurious.de/s/introduction)
-- Live votes under the name POLLtergeist: [polltergeist.de](https://polltergeist.de)
 
 ## What it covers
 
