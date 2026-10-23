@@ -27,8 +27,13 @@ It is developed by the [Chair of Communication Science, RWTH Aachen University](
 - **Plan:** study plan with hypotheses, power analysis, validated scales, pre-registration snapshot.
 - **Build:** more than forty element types, flow logic, quotas, twelve survey languages, accessibility after BITV 2.0 / WCAG 2.1 AA.
 - **Field:** links and QR codes, panel providers, data-quality checks, live votes, interviews, diary studies, paper questionnaires.
-- **Analyse and share:** results in APA style, choice models, method section, export to SPSS, jamovi and R, open data for Zenodo and Coscine.
+- **Analyse and share:** results in APA style, choice models, method section, export for the common statistics programs and R, open data for Zenodo and Coscine.
 - **Data protection:** deletion codes, retention periods, and a privacy concept built from the code.
+
+## Who is behind it
+
+Askurious is developed and run by the Chair of Communication Science of RWTH Aachen University for research and teaching.
+Authors: Philipp Brauner and Ralf Philipsen. RWTH Aachen University holds the rights in the code.
 
 ## Contact
 
