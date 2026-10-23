@@ -34,6 +34,7 @@ It is developed by the [Chair of Communication Science, RWTH Aachen University](
 
 Askurious is developed and run by the Chair of Communication Science of RWTH Aachen University for research and teaching.
 Authors: Philipp Brauner and Ralf Philipsen. RWTH Aachen University holds the rights in the code.
+The code is open source under the [European Union Public Licence 1.2](https://interoperable-europe.ec.europa.eu/collection/eupl/eupl-text-eupl-12) (EUPL-1.2); the names and logos of Askurious and POLLtergeist are not part of the licence.
 
 ## Contact
 
