@@ -16,9 +16,6 @@ It is developed by the [Chair of Communication Science, RWTH Aachen University](
 | --- | --- |
 | [askurious](https://github.com/askurious/askurious) | The platform: questionnaire editor, fieldwork, live votes, interviews, analysis and export. |
 | [askurious-diary-android](https://github.com/askurious/askurious-diary-android) | The Android app for diary studies (experience sampling): prompts at fixed or random times, offline answers. |
-| [askurious-module-conjointimport](https://github.com/askurious/askurious-module-conjointimport) | Add-on module: recompute choice-based conjoint studies made with other programs with the analyses of Askurious. |
-| [askurious-dashboard-android](https://github.com/askurious/askurious-dashboard-android) | Home-screen widgets for operators: services and participations of an Askurious server. |
-| [askurious-dashboard-geekmagic](https://github.com/askurious/askurious-dashboard-geekmagic) | A small desk display for operators with the same picture. |
 
 ## Try it
 
