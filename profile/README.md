@@ -16,6 +16,7 @@ It is developed by the [Chair of Communication Science, RWTH Aachen University](
 | --- | --- |
 | [askurious](https://github.com/askurious/askurious) | The platform: questionnaire editor, fieldwork, live votes, interviews, analysis and export. |
 | [askurious-diary-android](https://github.com/askurious/askurious-diary-android) | The Android app for diary studies (experience sampling): prompts at fixed or random times, offline answers. |
+| [askurious-constructs](https://github.com/askurious/askurious-constructs) | The open catalogue of constructs: scales and standard questions with sources, licences and structure, in signed releases that every installation syncs with. |
 
 ## Try it
 
@@ -36,11 +37,17 @@ Askurious is developed and run by the Chair of Communication Science of RWTH Aac
 Authors: Philipp Brauner and Ralf Philipsen. RWTH Aachen University holds the rights in the code.
 The code is open source under the [European Union Public Licence 1.2](https://interoperable-europe.ec.europa.eu/collection/eupl/eupl-text-eupl-12) (EUPL-1.2); the names and logos of Askurious and POLLtergeist are not part of the licence.
 
+## How to cite
+
+Brauner, P., & Philipsen, R. (2026). *Askurious* [Computer software]. RWTH Aachen University. https://doi.org/10.5281/zenodo.23612928
+
+Please name the release you used; details are in [CITATION.cff](https://github.com/askurious/askurious/blob/main/CITATION.cff).
+
 ## Contact
 
-Questions and ideas are welcome as issues in the repository of the part concerned.
+Questions and ideas are welcome as issues in the repository of the part concerned. Please report security issues privately, as the SECURITY.md of each repository describes.
 
 Lehrstuhl für Kommunikationswissenschaft, RWTH Aachen University  
 Campus-Boulevard 57  
 52074 Aachen, Germany  
-[brauner@comm.rwth-aachen.de](mailto:brauner@comm.rwth-aachen.de) · [www.comm.rwth-aachen.de](https://www.comm.rwth-aachen.de)
+[brauner@comm.rwth-aachen.de](mailto:brauner@comm.rwth-aachen.de) · [philipsen@comm.rwth-aachen.de](mailto:philipsen@comm.rwth-aachen.de) · [www.comm.rwth-aachen.de](https://www.comm.rwth-aachen.de)
